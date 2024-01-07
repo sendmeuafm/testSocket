@@ -1,0 +1,8 @@
+<table align=center width=50% >
+    <tr>
+        <td><img src="/images/menu.jpg" height=20px></td>
+        <td><a href="index.html">Start page</td>
+        <td><a href="about.html">About us</td>
+        <td><a href="hello.html">Hello</td>
+    </tr>
+</table>
